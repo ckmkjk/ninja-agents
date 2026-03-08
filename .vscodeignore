@@ -1,0 +1,10 @@
+src/**
+node_modules/**
+.vscode/**
+**/*.ts
+!out/**
+tsconfig.json
+ninja-bridge/**
+ninja-bridge.zip
+.claude/**
+.driftctl/**
